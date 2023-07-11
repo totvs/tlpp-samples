@@ -12,9 +12,10 @@ Projeto concentrando os demais projetos de exemplos para o tlppCore  e funcional
 * [i18n](https://github.com/totvs/tlpp-i18n-samples)
 * [DynCall](https://github.com/totvs/tlpp-dyncall-samples)
 
-<hr/>
-# Documentação Oficial
-![TOTVS TDN](logo-totvs.png)
+
+## Documentação Oficial
+
+#### ![TOTVS TDN](logo-totvs.png)
 
 Aconselhamos a leitura da documentação técnica oficial do TLPP e tlppCore para complementar seus estudos e consolidar seu conhecimento.
 
@@ -25,9 +26,9 @@ Aconselhamos a leitura da documentação técnica oficial do TLPP e tlppCore par
 * [Produtos do tlppCore](https://tdn.totvs.com/display/tec/Produtos+do+tlppCore)
 
 
-<hr/>
-# Material de apoio
-![Canal Youtube](youtube.png)
+## Material de apoio
+
+#### ![Canal Youtube](youtube.png)
 
 Sinta-se à vontade para assistir vídeo aulas em nosso canal do Youtube.
 
