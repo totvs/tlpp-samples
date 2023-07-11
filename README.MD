@@ -2,7 +2,7 @@
 
 Projeto concentrando os demais projetos de exemplos para o tlppCore  e funcionalidades nativas do TLPP, sendo:
 
-#### ![GitHub](github-logo.png)
+![GitHub](github-logo.png)
 
 * [TLPP - recursos](https://github.com/totvs/tlpp-core-resources)
 * [REST](https://github.com/totvs/tlpp-sample-rest)
@@ -13,9 +13,8 @@ Projeto concentrando os demais projetos de exemplos para o tlppCore  e funcional
 * [DynCall](https://github.com/totvs/tlpp-dyncall-samples)
 
 <hr/>
-## Documentação Oficial
-
-#### ![TOTVS TDN](logo-totvs.png)
+# Documentação Oficial
+![TOTVS TDN](logo-totvs.png)
 
 Aconselhamos a leitura da documentação técnica oficial do TLPP e tlppCore para complementar seus estudos e consolidar seu conhecimento.
 
@@ -27,9 +26,8 @@ Aconselhamos a leitura da documentação técnica oficial do TLPP e tlppCore par
 
 
 <hr/>
-## Material de apoio
-
-#### ![Canal Youtube](youtube.png)
+# Material de apoio
+![Canal Youtube](youtube.png)
 
 Sinta-se à vontade para assistir vídeo aulas em nosso canal do Youtube.
 
