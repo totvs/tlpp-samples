@@ -1,6 +1,6 @@
 # Exemplos de TLPP e tlppCore
 
-Projeto concentrando os demais projetos de exemplos para o tlppCore  e funcionalidades nativas do TLPP, sendo:
+Projeto concentrando os demais projetos de exemplos para o tlppCore e funcionalidades nativas do TLPP, sendo:
 
 ![GitHub](github-logo.png)
 
@@ -17,7 +17,7 @@ Projeto concentrando os demais projetos de exemplos para o tlppCore  e funcional
 
 #### ![TOTVS TDN](logo-totvs.png)
 
-Aconselhamos a leitura da documentação técnica oficial do TLPP e tlppCore para complementar seus estudos e consolidar seu conhecimento.
+Aconselhamos a leitura da documentação técnica oficial do TLPP e tlppCore.
 
 * [A Linguagem TLPP](https://tdn.totvs.com/pages/viewpage.action?pageId=334340072)
 
