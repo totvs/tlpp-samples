@@ -1,3 +1,21 @@
 [submodule "rest"]
 	path = rest
 	url = https://github.com/totvs/tlpp-sample-rest.git
+[submodule "probat"]
+	path = probat
+	url = https://github.com/totvs/tlpp-probat-samples.git
+[submodule "tlpp"]
+	path = tlpp
+	url = https://github.com/totvs/tlpp-core-resources
+[submodule "rest_doc"]
+	path = rest_doc
+	url = https://github.com/totvs/tlpp-sample-rest-documentation
+[submodule "oAuth2"]
+	path = oAuth2
+	url = https://github.com/totvs/tlpp-oAuth2
+[submodule "dyncall"]
+	path = dyncall
+	url = https://github.com/totvs/tlpp-dyncall-samples
+[submodule "i18n"]
+	path = i18n
+	url = https://github.com/totvs/tlpp-i18n-samples
