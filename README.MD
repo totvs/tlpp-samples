@@ -13,7 +13,7 @@ Projeto concentrando os demais projetos de exemplos para o tlppCore  e funcional
 * [DynCall](https://github.com/totvs/tlpp-dyncall-samples)
 
 <hr/>
-### Documentação Oficial
+## Documentação Oficial
 
 #### ![TOTVS TDN](logo-totvs.png)
 
@@ -27,7 +27,7 @@ Aconselhamos a leitura da documentação técnica oficial do TLPP e tlppCore par
 
 
 <hr/>
-### Material de apoio
+## Material de apoio
 
 #### ![Canal Youtube](youtube.png)
 
