@@ -21,11 +21,11 @@ Projeto concentrando os demais projetos de exemplos para o tlppCore e funcionali
 
 Aconselhamos a leitura da documentação técnica oficial do TLPP e tlppCore.
 
-* [A Linguagem TLPP](https://tdn.totvs.com/pages/viewpage.action?pageId=334340072)
+* [A Linguagem TLPP](https://tdn.totvs.com/display/tec/TLPP)
 
-* [O que há de novo ... Recursos](https://tdn.totvs.com/pages/viewpage.action?pageId=619741219)
+* [TLPP - Novidades](https://tdn.totvs.com/display/tec/TLPP+-+Novidades)
 
-* [Produtos do tlppCore](https://tdn.totvs.com/display/tec/Produtos+do+tlppCore)
+* [tlppCore - Novidades](https://tdn.totvs.com/display/tec/tlppCore+-+Novidades)
 
 
 ## Material de apoio
